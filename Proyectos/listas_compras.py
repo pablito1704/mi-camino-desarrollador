@@ -1,6 +1,7 @@
 compras = []
 
 continuar = "si"
+
 while continuar == "si":
     producto = input("Ingrese un producto: ")
     compras.append(producto)
@@ -8,7 +9,5 @@ while continuar == "si":
 
 print("\nLista de compras: ")
 
-contador = 0
-while contador < len(compras):
-    print("-",compras[contador])
-    contador += 1
+for producto in compras:
+    print("-", producto)

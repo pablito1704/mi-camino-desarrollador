@@ -1,4 +1,4 @@
-Día 2
+# Día 2
 
 Aprendí:
 - Variables
@@ -79,3 +79,27 @@ Aprender condiciones múltiples y operadores lógicos para crear programas más 
 
 ## Dificultades
 - Al principio me costó recorrer la lista con un contador, pero entendí que primero debo imprimir el elemento y luego incrementar el contador.
+
+# Día 8
+
+## Temas aprendidos
+- Ciclo `for`
+- `range()`
+- Recorrer listas
+- Recorrer cadenas
+- Diferencias entre `for` y `while`
+
+## Ejercicios realizados
+- Imprimir videojuegos con `for`.
+- Imprimir números usando `range()`.
+- Recorrer una palabra letra por letra.
+- Mejorar el proyecto de lista de compras usando `for`.
+
+## Lo que aprendí
+- `for` es ideal cuando conozco los elementos que voy a recorrer.
+- `while` es mejor cuando no sé cuántas veces se repetirá una acción.
+
+## Dificultades
+- Al principio intenté reemplazar un `while` por un `for` donde no correspondía, pero entendí cuándo usar cada uno.
+range(inicio, fin).
+range(inicio, fin, paso).
