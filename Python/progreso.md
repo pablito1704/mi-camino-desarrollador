@@ -103,3 +103,25 @@ Aprender condiciones múltiples y operadores lógicos para crear programas más 
 - Al principio intenté reemplazar un `while` por un `for` donde no correspondía, pero entendí cuándo usar cada uno.
 range(inicio, fin).
 range(inicio, fin, paso).
+
+# Día 9
+
+## Temas aprendidos
+- Funciones (`def`)
+- Parámetros
+- `return`
+- Funciones que devuelven `True` o `False`
+
+## Ejercicios realizados
+- Función para saludar.
+- Función para sumar dos números.
+- Función para verificar si una persona es mayor de edad.
+- Mini retos sobre funciones y `return`.
+
+## Lo que aprendí
+- Una función me permite reutilizar código.
+- Los parámetros hacen que una función sirva para distintos casos.
+- `return` devuelve un valor para usarlo en otra parte del programa.
+
+## Dificultades
+- Al principio confundía `print` con `return`, pero ahora entiendo la diferencia.
