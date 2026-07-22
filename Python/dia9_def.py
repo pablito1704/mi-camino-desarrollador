@@ -66,3 +66,10 @@ def saludar(nombre):
 
 mensaje = saludar("Pablo")
 print(mensaje)
+
+#RETO DEL DIA 9
+def cuadrado(numero):
+    return numero ** 2
+
+resultado = cuadrado(6)
+print(resultado)

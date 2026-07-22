@@ -125,3 +125,24 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Al principio confundía `print` con `return`, pero ahora entiendo la diferencia.
+
+# Día 10
+
+## Temas aprendidos
+- Diccionarios (`dict`)
+- Claves y valores
+- Modificar y agregar datos
+- Recorrer diccionarios con `items()`
+
+## Ejercicios realizados
+- Crear un diccionario de estudiante.
+- Agregar una nueva clave a un producto.
+- Recorrer un diccionario con `for`.
+
+## Lo que aprendí
+- Los diccionarios almacenan información usando claves y valores.
+- Puedo acceder a un dato usando su clave.
+- `items()` permite recorrer claves y valores al mismo tiempo.
+
+## Dificultades
+- Ninguna importante. Comprendí cómo funcionan los diccionarios y cómo recorrerlos.
