@@ -146,3 +146,26 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Comprendí cómo funcionan los diccionarios y cómo recorrerlos.
+
+# Día 11
+
+## Temas aprendidos
+- Manejo de archivos
+- open()
+- Modos "r", "w" y "a"
+- read()
+- write()
+
+## Ejercicios realizados
+- Crear un archivo de presentación.
+- Leer el contenido de un archivo.
+- Agregar información usando el modo "a".
+- Diferenciar entre "w" y "a".
+
+## Lo que aprendí
+- "w" crea el archivo o sobrescribe su contenido.
+- "a" agrega información sin borrar lo anterior.
+- "r" permite leer el contenido de un archivo.
+
+## Dificultades
+- Al principio confundí el comportamiento de "w" y "a", pero ahora entiendo que "w" reemplaza el contenido y "a" lo conserva y agrega texto al final.
