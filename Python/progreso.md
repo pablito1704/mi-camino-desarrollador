@@ -169,3 +169,27 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Al principio confundí el comportamiento de "w" y "a", pero ahora entiendo que "w" reemplaza el contenido y "a" lo conserva y agrega texto al final.
+
+# Día 12
+
+## Temas aprendidos
+- try
+- except
+- else
+- finally
+- Manejo de excepciones
+
+## Ejercicios realizados
+- Validar entrada numérica.
+- Capturar errores con ValueError.
+- Ejecutar código cuando no hay errores.
+- Ejecutar código al finalizar el programa con finally.
+
+## Lo que aprendí
+- try intenta ejecutar un bloque de código.
+- except captura errores y evita que el programa termine.
+- else se ejecuta cuando no ocurre ningún error.
+- finally siempre se ejecuta.
+
+## Dificultades
+- Ninguna importante. Comprendí cuándo se ejecuta cada bloque.
