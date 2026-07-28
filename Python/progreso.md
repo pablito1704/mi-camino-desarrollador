@@ -193,3 +193,26 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Comprendí cuándo se ejecuta cada bloque.
+
+# Día 13
+
+## Temas aprendidos
+- Importar módulos con import
+- Importar funciones específicas con from ... import ...
+- Módulo math
+- Módulo random
+
+## Ejercicios realizados
+- Calcular raíces cuadradas con sqrt().
+- Calcular potencias con math.pow().
+- Generar números aleatorios con randint().
+- Importar funciones específicas.
+
+## Lo que aprendí
+- Los módulos permiten reutilizar herramientas ya creadas.
+- math contiene funciones matemáticas.
+- random permite generar números aleatorios.
+- from ... import ... evita escribir el nombre del módulo cada vez.
+
+## Dificultades
+- Ninguna importante. Comprendí cómo importar módulos y funciones.
