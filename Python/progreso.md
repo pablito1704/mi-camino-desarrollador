@@ -216,3 +216,28 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Comprendí cómo importar módulos y funciones.
+
+# Día 14
+
+## Temas aprendidos
+- Programación Orientada a Objetos (POO)
+- Clases
+- Objetos
+- Constructor __init__
+- self
+- Métodos
+
+## Ejercicios realizados
+- Crear una clase Persona.
+- Crear una clase Perro.
+- Crear una clase Gato con un método.
+- Crear una clase Estudiante con varios atributos.
+
+## Lo que aprendí
+- Una clase es una plantilla para crear objetos.
+- Un objeto tiene atributos y métodos.
+- __init__ inicializa los datos del objeto.
+- self permite acceder a los atributos del propio objeto.
+
+## Dificultades
+- Ninguna importante. Comprendí la diferencia entre clases, objetos, atributos y métodos.
