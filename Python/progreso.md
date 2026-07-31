@@ -241,3 +241,23 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Comprendí la diferencia entre clases, objetos, atributos y métodos.
+
+# Día 15
+
+## Temas aprendidos
+- Herencia
+- Clases padre e hijas
+- Override (sobrescritura de métodos)
+
+## Ejercicios realizados
+- Clase Vehículo y Moto.
+- Clase Animal y Pájaro.
+- Clase Empleado y Programador.
+
+## Lo que aprendí
+- Una clase puede heredar atributos y métodos de otra.
+- Las clases hijas pueden agregar métodos nuevos.
+- También pueden sobrescribir métodos heredados.
+
+## Dificultades
+- Ninguna importante. Comprendí cómo funciona la herencia y el override.
