@@ -261,3 +261,24 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Comprendí cómo funciona la herencia y el override.
+
+# Día 16
+
+## Temas aprendidos
+- Encapsulación
+- Atributos privados
+- Getters
+- Setters
+
+## Ejercicios realizados
+- Clase Cuenta con saldo privado.
+- Clase Alcancía con método guardar.
+- Clase Empleado con getter y setter.
+
+## Lo que aprendí
+- Los atributos privados ayudan a proteger la información.
+- Los getters permiten consultar datos.
+- Los setters permiten modificar datos de forma controlada.
+
+## Dificultades
+- Ninguna importante. Comprendí cómo usar getters y setters.
