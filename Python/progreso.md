@@ -282,3 +282,25 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Comprendí cómo usar getters y setters.
+
+# Día 17
+
+## Temas aprendidos
+- Integración de Programación Orientada a Objetos
+- Getters y setters
+- Encapsulación
+- Métodos para modificar datos
+
+## Ejercicios realizados
+- Clase Libro.
+- Clase Celular.
+- Clase CuentaBancaria.
+
+## Lo que aprendí
+- Una clase puede organizar datos y comportamientos relacionados.
+- Los getters permiten consultar información.
+- Los setters y otros métodos permiten modificar datos de forma controlada.
+- La encapsulación ayuda a proteger la información.
+
+## Dificultades
+- Ninguna importante. Me siento más cómodo creando clases completas.
