@@ -304,3 +304,23 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Me siento más cómodo creando clases completas.
+
+# Día 18
+
+## Temas aprendidos
+- Proyecto integrador con Programación Orientada a Objetos
+- Listas de objetos
+- Recorrido de objetos con for
+
+## Ejercicios realizados
+- Clase Libro.
+- Biblioteca con varios libros.
+- Mostrar información de todos los libros.
+
+## Lo que aprendí
+- Puedo almacenar varios objetos en una lista.
+- Puedo recorrer la lista y llamar métodos de cada objeto.
+- La Programación Orientada a Objetos permite organizar mejor el código.
+
+## Dificultades
+- Ninguna importante. Me siento más cómodo trabajando con varios objetos.
