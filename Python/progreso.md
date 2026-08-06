@@ -324,3 +324,23 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Ninguna importante. Me siento más cómodo trabajando con varios objetos.
+
+# Día 19
+
+## Temas aprendidos
+- Búsqueda de objetos en listas
+- Uso de una variable de control (`encontrado`)
+- Validación de resultados
+
+## Ejercicios realizados
+- Sistema de búsqueda de libros.
+- Mostrar información si el libro existe.
+- Mostrar un mensaje si no existe.
+
+## Lo que aprendí
+- Puedo recorrer una lista de objetos y buscar información específica.
+- La variable `encontrado` permite saber si la búsqueda tuvo éxito.
+- Es importante revisar qué variable se imprime al final del programa.
+
+## Dificultades
+- Confundí el valor que imprimía el programa en un mini reto, pero entendí la diferencia entre imprimir una variable y el elemento encontrado.
