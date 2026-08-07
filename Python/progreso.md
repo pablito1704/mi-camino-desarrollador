@@ -344,3 +344,25 @@ range(inicio, fin, paso).
 
 ## Dificultades
 - Confundí el valor que imprimía el programa en un mini reto, pero entendí la diferencia entre imprimir una variable y el elemento encontrado.
+
+# Día 20
+
+## Temas aprendidos
+- Agregar objetos a una lista
+- Uso de append()
+- Registro de varios datos con while
+- Mostrar información con for
+
+## Ejercicios realizados
+- Biblioteca interactiva.
+- Agregar varios libros.
+- Mostrar todos los libros registrados.
+
+## Lo que aprendí
+- Puedo crear objetos usando datos ingresados por el usuario.
+- append() agrega nuevos objetos a una lista.
+- while permite repetir el proceso de registro.
+- for permite mostrar toda la información almacenada.
+
+## Dificultades
+- Debo recordar que las clases se definen fuera de los bucles.
